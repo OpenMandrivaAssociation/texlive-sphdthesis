@@ -3,7 +3,7 @@ Version:	34374
 Release:	2
 Summary:	LaTeX template for writing PhD Thesis
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sphdthesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/sphdthesis
 License:	pd
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sphdthesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/sphdthesis.doc.r%{version}.tar.xz
